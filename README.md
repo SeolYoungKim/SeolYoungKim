@@ -5,7 +5,7 @@
 
 ## Contact 
 - Email : nasur4da@gmail.com
-- Notion : [노션 홈페이지](https://robust-price-530.notion.site/7927298209a14c7c819bb1f545ae8fd1)
+- Notion : [노션 포트폴리오](https://kimsy8979.notion.site/Portfolio-90d896f5071e4df98104352384b703b3)
 - Blog : [Velog!](https://velog.io/@kimsy8979)
 
 ## Stack
@@ -21,7 +21,10 @@
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white)
 ![QDSL](https://img.shields.io/badge/QDSL-512BD4?style=flat-square&logo=QueryDSL&logoColor=white)
 
+
+### DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
+
 
 ### DataBase
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
