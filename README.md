@@ -8,11 +8,15 @@
 - Notion : [노션 포트폴리오](https://kimsy8979.notion.site/Portfolio-90d896f5071e4df98104352384b703b3)
 - Blog : [기술 블로그](https://kimsy8979.tistory.com/)
 
+
+
 ## Stack
+
+<div align=center>
+
 ### BackEnd
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white)
-
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white)
@@ -20,7 +24,6 @@
 ![OAuth](https://img.shields.io/badge/OAuth-6DB33F?style=flat-square&logo=OAuth&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-6DB33F?style=flat-square&logo=JPA&logoColor=white)
 ![QDSL](https://img.shields.io/badge/QDSL-512BD4?style=flat-square&logo=QueryDSL&logoColor=white)
-
 
 ### DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white)
@@ -39,3 +42,5 @@
 
 ### Etc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+
+</div>
