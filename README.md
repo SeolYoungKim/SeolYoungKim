@@ -6,7 +6,7 @@
 ## Contact 
 - Email : nasur4da@gmail.com
 - Notion : [노션 포트폴리오](https://kimsy8979.notion.site/Portfolio-90d896f5071e4df98104352384b703b3)
-- Blog : [기술 블로그](https://kimsy8979.tistory.com/)
+- Blog : [티스토리](https://kimsy8979.tistory.com/)
 
 
 
