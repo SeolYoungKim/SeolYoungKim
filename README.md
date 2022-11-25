@@ -12,7 +12,7 @@
 
 ## Stack
 
-<div align=center>
+<!-- <div align=center> -->
 
 ### BackEnd
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
@@ -43,4 +43,4 @@
 ### Etc
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-</div>
+<!-- </div> -->
